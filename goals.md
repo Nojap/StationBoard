@@ -13,3 +13,6 @@ v.3
 v.3
 1. allow to select a station and get a message when a new vehicle is approaching the station, including track information, etc.
 2. allow to select a station and get a message when a new vehicle is departing the station, including track information, etc.
+
+v.4
+1. Allow for the overview of line statusses within a system and subsystem(ATM, GVB, ATM Metropolitana, GVB tram), to visualize delays and service levels 
