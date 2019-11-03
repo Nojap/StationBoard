@@ -1,0 +1,41 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Academy Commuter,3,000000,9494FF,1,3320,,,93
+Unser Commuter,3,000000,3988FF,1,3321,,,94
+Crosstown Commuter,3,000000,F3F400,1,3322,,,96
+Zuni Express,3,FFFFFF,6600FF,1,3323,,,97
+Wyoming,3,FFFFFF,852300,1,3298,,,31
+San Pedro Commuter,3,000000,FF9E00,1,3299,,,34
+Indian School Commuter,3,000000,E171E1,1,3308,,,6
+Central Avenue,3,000000,00DEC8,1,3309,,,66
+Bridge/Westgate,3,FFFFFF,006097,1,3306,,,54
+Rio Bravo/ Rail Runner/ KAFB,3,FFFFFF,804A80,1,3295,,,222
+Atrisco/Rio Bravo,3,FFFFFF,572820,1,3304,,,51
+ABQ-Rio Rancho Rail Runner Shuttle,3,FFFFFF,006849,1,3297,,,251
+Montgomery/Carlisle,3,000000,FF4E21,1,3302,,,5
+Airport/Downtown,3,FFFFFF,71220F,1,3303,,,50
+98th / Dennis Chavez,3,FFFFFF,00FF00,1,3292,,,198
+Rio Grande/12th Street,3,FFFFFF,800000,1,3301,,,37
+Isleta,3,000000,2390CF,1,3305,,,53
+Juan Tabo,3,000000,E17F38,1,3281,,,1
+University/Gibson/Broadway,3,FFFFFF,C01D8C,1,3290,,,16
+Comanche Commuter,3,FFFFFF,006267,1,3285,,,13
+North Fourth Street,3,FFFFFF,C30000,1,3282,,,10
+12th Street/Rio Grande,3,FFFFFF,800000,1,3300,,,36
+Eubank-Ventura,3,000000,DC5D2E,1,3293,,,2
+Jefferson - Paseo del Norte Express,3,FFFFFF,008080,1,3307,,,551
+Constitution Commuter,3,000000,B7FF00,1,3284,,,12
+Taylor Ranch Express,3,FFFFFF,D43815,1,3319,,,92
+Cottonwood/Montano/UTC,3,FFFFFF,008047,1,3289,,,157
+Coors,3,000000,FF8900,1,3288,,,155
+Red Line Rapid Ride,3,FFFFFF,EC0000,1,3311,,,766
+San Mateo / CNM Work Force,3,FFFFFF,420080,1,3286,,,140
+Candelaria Commuter,3,000000,FF7F54,1,3310,,,7
+Green Line Rapid Ride,3,000000,00FF00,1,3312,,,777
+Lomas,3,FFFFFF,800080,1,3283,,,11
+Menaul,3,FFFFFF,7B097B,1,3314,,,8
+Downtown-KAFB Ltd.,3,000000,FDDC00,1,3294,,,217
+San Mateo,3,FFFFFF,7E0080,1,3287,,,141
+Ventana Ranch / Unser,3,FFFFFF,83361B,1,3291,,,162
+Blue Line Rapid Ride,3,FFFFFF,0000FF,1,3313,,,790
+Wyoming Commuter,3,FFFFFF,005B3C,1,3324,,,98
+Airport/Downtown Express,3,000000,F34C00,1,3296,,,250
